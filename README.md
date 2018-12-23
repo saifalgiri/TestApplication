@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/saifalgiri2010/TestApplication/_apis/build/status/saifalgiri.TestApplication?branchName=master)](https://dev.azure.com/saifalgiri2010/TestApplication/_build/latest?definitionId=1?branchName=master)
